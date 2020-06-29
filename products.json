@@ -1,0 +1,112 @@
+{
+    "items":[
+        {
+            "sys": { "id": "1" },
+            "fields":{
+                "title": "abacha",
+                "price": 900,
+                "image":{"fields": {"file": { 
+                "url": "./images/abacha.jpg"}}}
+            }
+        },
+        {
+            "sys": { "id": "2" },
+            "fields":{
+                "title": "egusi and semo",
+                "price": 1000,
+                "image":{"fields": {"file": { 
+                "url": "./images/egusisemo.jpg"}}}
+            }
+        },
+        {
+            "sys": { "id": "3" },
+            "fields":{
+                "title": "moi moi",
+                "price": 500,
+                "image":{"fields": {"file": { 
+                "url": "./images/moimoi.jpg"}}}
+            }
+        },
+        {
+            "sys": { "id": "4" },
+            "fields":{
+                "title": "Spiced spagheti",
+                "price": 700,
+                "image":{"fields": {"file": { 
+                "url": "./images/spicedspagheti.jpg"}}}
+            }
+        },
+        {
+            "sys": { "id": "5" },
+            "fields":{
+                "title": "Ewedu and Elegusi",
+                "price": 1000,
+                "image":{"fields": {"file": { 
+                "url": "./images/eweduelegusi.jpg"}}}
+            }
+        },
+        {
+            "sys": { "id": "6" },
+            "fields":{
+                "title": "Rice and Chicken",
+                "price": 1500,
+                "image":{"fields": {"file": { 
+                "url": "./images/Spicedricechicken.jpg"}}}
+            }
+        },
+        {
+            "sys": { "id": "7" },
+            "fields":{
+                "title": "fried egg and plantain",
+                "price": 800,
+                "image":{"fields": {"file": { 
+                "url": "./images/friedeggplantain.jpg"}}}
+            }
+        },
+        {
+            "sys": { "id": "8" },
+            "fields":{
+                "title": "beans and plantain",
+                "price": 1000,
+                "image":{"fields": {"file": { 
+                "url": "./images/beansplantain.jpg"}}}
+            }
+        },
+        {
+            "sys": { "id": "9" },
+            "fields":{
+                "title": "roasted plantain and fish",
+                "price": 1000,
+                "image":{"fields": {"file": { 
+                "url": "./images/roastedplantainfish.jpg"}}}
+            }
+        },
+        {
+            "sys": { "id": "10" },
+            "fields":{
+                "title": "nkwobi",
+                "price": 1000,
+                "image":{"fields": {"file": { 
+                "url": "./images/nkwobi.jpg"}}}
+            }
+        },
+        {
+            "sys": { "id": "11" },
+            "fields":{
+                "title": "rice and stew",
+                "price": 800,
+                "image":{"fields": {"file": { 
+                "url": "./images/whitericestew.jpg"}}}
+            }
+        },
+        {
+            "sys": { "id": "12" },
+            "fields":{
+                "title": "afang and semo",
+                "price": 1000,
+                "image":{"fields": {"file": { 
+                "url": "./images/afangsemo.jpg"}}}
+            }
+        }
+    ]
+}
